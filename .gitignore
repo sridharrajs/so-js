@@ -1,0 +1,20 @@
+# Dependencies
+node_modules/
+bower_components/
+
+npm-debug.log
+
+# meta folder
+.idea/
+.tern-port
+
+#distribution
+dist/
+uploads/
+app/tests/
+reports/
+
+# emacs
+*~
+*#
+.#*
