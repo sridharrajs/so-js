@@ -18,6 +18,7 @@ reports/
 
 app/controller/
 app/models
+app/app.js
 
 # emacs
 *~

@@ -18,6 +18,7 @@
   "homepage": "https://github.com/sridharrajs/so-js#readme",
   "dependencies": {
     "async": "^2.6.0",
+    "bcrypt-nodejs": "0.0.3",
     "chalk": "^2.3.2",
     "dotenv": "^5.0.1",
     "express": "^4.16.3",
