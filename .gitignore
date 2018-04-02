@@ -14,6 +14,11 @@ uploads/
 app/tests/
 reports/
 
+# App folders
+
+app/controller/
+app/models
+
 # emacs
 *~
 *#
@@ -21,3 +26,6 @@ reports/
 
 # markdown file for writing SO answer
 ANSWER.md
+
+# Environment variable
+.env
