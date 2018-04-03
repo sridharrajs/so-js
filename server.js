@@ -9,7 +9,7 @@ if (dotenv.error) {
   process.exit(0);
 }
 
-let connectionFactory = require('./app/connection-factory');
+let connectionFactory = require('./app/mongoose-connection-factory');
 
 connectionFactory.connect().then(() => {
   console.log(`Db connection established =>  ${chalk.blue('SUCCESS')} `);
